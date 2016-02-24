@@ -1,0 +1,13 @@
+$icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/";
+// bower:scss
+@import "bootstrap-sass-official/assets/stylesheets/_bootstrap.scss";
+// endbower
+.headr {
+    height: 40px;
+    background-color: #87CEEB;
+    margin-top: -20px
+}
+
+.view {
+    margin-top: 20px;
+}
